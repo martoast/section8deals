@@ -1,0 +1,1021 @@
+{
+    "listingProvider": null,
+    "zpid": 17984953,
+    "buildingPermits": null,
+    "propertyTaxRate": 1.19,
+    "contact_recipients": [
+        {
+            "agent_reason": 1,
+            "zpro": null,
+            "recent_sales": 0,
+            "review_count": 54,
+            "display_name": "Melody and Denny Ramirez",
+            "zuid": "X1-ZU12xs58gnxomix_52lx3",
+            "rating_average": 5,
+            "badge_type": "Premier Agent",
+            "phone": {
+                "prefix": "496",
+                "areacode": "760",
+                "number": "5585"
+            },
+            "image_url": "https://photos.zillowstatic.com/h_n/IS3zf67c50lct31000000000.jpg"
+        }
+    ],
+    "zipcode": "92544",
+    "openHouseSchedule": {},
+    "longitude": -116.931404,
+    "zestimateLowPercent": null,
+    "address": {
+        "community": null,
+        "city": "Hemet",
+        "state": "CA",
+        "neighborhood": null,
+        "subdivision": null,
+        "streetAddress": "26864 Stanford St",
+        "zipcode": "92544"
+    },
+    "cityId": 11865,
+    "timeOnZillow": "598 days",
+    "url": "/homedetails/26864-Stanford-St-Hemet-CA-92544/17984953_zpid/",
+    "zestimate": null,
+    "imgSrc": "https://photos.zillowstatic.com/fp/7827c6422706713f7a9ed38799245470-p_d.jpg",
+    "description": "3 bedroom 2 1/2 bath home.",
+    "price": 537900,
+    "livingAreaValue": 2784,
+    "resoFacts": {
+        "hasAttachedProperty": false,
+        "frontageType": null,
+        "poolFeatures": [
+            "Private",
+            "In Ground"
+        ],
+        "flooring": null,
+        "builderModel": null,
+        "accessibilityFeatures": null,
+        "hasGarage": true,
+        "hasPetsAllowed": null,
+        "bodyType": null,
+        "topography": null,
+        "landLeaseExpirationDate": null,
+        "hasAdditionalParcels": false,
+        "waterViewYN": null,
+        "livingQuarters": {},
+        "atAGlanceFacts": [
+            {
+                "factValue": "Single Family Residence",
+                "factLabel": "Type"
+            },
+            {
+                "factValue": "1962",
+                "factLabel": "Year Built"
+            },
+            {
+                "factValue": "Central",
+                "factLabel": "Heating"
+            },
+            {
+                "factValue": "Central Air",
+                "factLabel": "Cooling"
+            },
+            {
+                "factValue": "3 Attached Garage spaces",
+                "factLabel": "Parking"
+            },
+            {
+                "factValue": "0.39 Acres",
+                "factLabel": "Lot"
+            },
+            {
+                "factValue": "2.5",
+                "factLabel": "Buyers Agency Fee"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Offer Review Date"
+            }
+        ],
+        "offerReviewDate": null,
+        "horseYN": null,
+        "view": [
+            "None"
+        ],
+        "buyerAgencyCompensationType": "%",
+        "rooms": {},
+        "belowGradeFinishedArea": null,
+        "feesAndDues": [
+            {
+                "phone": null,
+                "name": null,
+                "fee": null,
+                "type": "HOA"
+            }
+        ],
+        "cityRegion": "Hemet",
+        "subAgencyCompensation": null,
+        "hasPrivatePool": true,
+        "associationFeeIncludes": null,
+        "waterSource": [
+            "Public"
+        ],
+        "carportParkingCapacity": null,
+        "transactionBrokerCompensationType": null,
+        "hasFireplace": true,
+        "gas": null,
+        "sewer": [
+            "Septic Type Unknown"
+        ],
+        "elevationUnits": "Feet",
+        "roadSurfaceType": null,
+        "mainLevelBedrooms": 3,
+        "numberOfUnitsVacant": null,
+        "hasWaterfrontView": null,
+        "bathroomsOneQuarter": null,
+        "lotSize": "0.39 Acres",
+        "subAgencyCompensationType": null,
+        "entryLevel": null,
+        "irrigationWaterRightsAcres": null,
+        "greenWaterConservation": null,
+        "stories": 1,
+        "bathrooms": 3,
+        "numberOfUnitsInCommunity": null,
+        "listingTerms": "Down Payment Resource",
+        "otherParking": null,
+        "associationFee": null,
+        "marketingType": null,
+        "greenEnergyEfficient": null,
+        "greenSustainability": null,
+        "heating": [
+            "Central"
+        ],
+        "associationPhone": null,
+        "greenBuildingVerificationType": null,
+        "hasAttachedGarage": true,
+        "bedrooms": 3,
+        "architecturalStyle": null,
+        "listingId": null,
+        "structureType": null,
+        "interiorFeatures": [
+            "All Bedrooms Down",
+            "Kitchen",
+            "Living Room"
+        ],
+        "horseAmenities": null,
+        "electric": null,
+        "otherFacts": {},
+        "lotFeatures": [
+            "Yard"
+        ],
+        "roofType": null,
+        "compensationBasedOn": null,
+        "greenEnergyGeneration": null,
+        "taxAnnualAmount": 6401,
+        "daysOnZillow": 598,
+        "listAOR": "California Regional MLS",
+        "hasHeating": true,
+        "elementarySchool": null,
+        "constructionMaterials": {},
+        "basementYN": null,
+        "hoaFeeTotal": null,
+        "appliances": [
+            "Dishwasher",
+            "Gas Range"
+        ],
+        "virtualTour": null,
+        "bathroomsPartial": null,
+        "fencing": null,
+        "yearBuiltEffective": null,
+        "foundationDetails": {},
+        "buildingName": null,
+        "hasAssociation": false,
+        "isSeniorCommunity": null,
+        "propertySubType": [
+            "Single Family Residence"
+        ],
+        "propertyCondition": null,
+        "hasCarport": null,
+        "canRaiseHorses": false,
+        "hasLandLease": false,
+        "communityFeatures": [
+            "Urban"
+        ],
+        "parcelNumber": "449250002",
+        "elevation": null,
+        "lotSizeDimensions": null,
+        "buildingAreaSource": null,
+        "contingency": null,
+        "yearBuilt": 1962,
+        "otherStructures": null,
+        "livingArea": "2,784 sqft",
+        "bathroomsFull": 1,
+        "livingAreaRangeUnits": null,
+        "incomeIncludes": null,
+        "highSchool": null,
+        "aboveGradeFinishedArea": null,
+        "isNewConstruction": false,
+        "inclusions": null,
+        "hasHomeWarranty": false,
+        "additionalFeeInfo": null,
+        "windowFeatures": null,
+        "ownership": null,
+        "woodedArea": null,
+        "middleOrJuniorSchoolDistrict": null,
+        "associationPhone2": null,
+        "exteriorFeatures": {},
+        "buildingFeatures": null,
+        "frontageLength": null,
+        "buildingArea": null,
+        "associationAmenities": null,
+        "bathroomsHalf": 1,
+        "hasCooling": true,
+        "additionalParcelsDescription": null,
+        "parkingFeatures": [
+            "Garage - Attached"
+        ],
+        "foundationArea": null,
+        "zoning": "A-1-5",
+        "hoaFee": null,
+        "livingAreaRange": null,
+        "zoningDescription": null,
+        "developmentStatus": null,
+        "availabilityDate": null,
+        "waterfrontFeatures": null,
+        "waterBodyName": null,
+        "utilities": null,
+        "entryLocation": null,
+        "totalActualRent": null,
+        "hasView": true,
+        "subdivisionName": null,
+        "securityFeatures": null,
+        "attic": null,
+        "fireplaceFeatures": [
+            "Decorative"
+        ],
+        "mainLevelBathrooms": 3,
+        "doorFeatures": null,
+        "ownershipType": null,
+        "associationName": null,
+        "associations": {},
+        "waterView": null,
+        "garageParkingCapacity": 3,
+        "cropsIncludedYN": null,
+        "laundryFeatures": [
+            "Inside"
+        ],
+        "buyerAgencyCompensation": "2.5",
+        "greenIndoorAirQuality": null,
+        "homeType": "SingleFamily",
+        "spaFeatures": null,
+        "municipality": null,
+        "bathroomsThreeQuarter": 1,
+        "hasSpa": false,
+        "basement": null,
+        "associationFee2": null,
+        "cooling": [
+            "Central Air"
+        ],
+        "openParkingCapacity": 3,
+        "associationName2": null,
+        "hasRentControl": null,
+        "elementarySchoolDistrict": null,
+        "otherEquipment": null,
+        "commonWalls": "No Common Walls",
+        "specialListingConditions": "Standard",
+        "furnished": false,
+        "vegetation": null,
+        "patioAndPorchFeatures": null,
+        "bathroomsFloat": 3,
+        "builderName": null,
+        "highSchoolDistrict": "Hemet Unified",
+        "transactionBrokerCompensation": null,
+        "storiesTotal": 1,
+        "cumulativeDaysOnMarket": "42 days",
+        "fireplaces": null,
+        "irrigationWaterRightsYN": null,
+        "exclusions": null,
+        "hasOpenParking": null,
+        "landLeaseAmount": null,
+        "coveredParkingCapacity": 3,
+        "middleOrJuniorSchool": null,
+        "hasElectricOnProperty": null,
+        "onMarketDate": 1656633600000,
+        "pricePerSquareFoot": 193,
+        "parkingCapacity": 6,
+        "levels": "One"
+    },
+    "taxHistory": [
+        {
+            "time": 1684090446199,
+            "valueIncreaseRate": 1.5905414,
+            "taxIncreaseRate": 1.566058,
+            "taxPaid": 6151.2,
+            "value": 537900
+        },
+        {
+            "time": 1652554446199,
+            "valueIncreaseRate": 0.019998133,
+            "taxIncreaseRate": 0.016840281,
+            "taxPaid": 2397.14,
+            "value": 207640
+        },
+        {
+            "time": 1621018446199,
+            "valueIncreaseRate": 0.010353231,
+            "taxIncreaseRate": -0.17220072,
+            "taxPaid": 2357.44,
+            "value": 203569
+        },
+        {
+            "time": 1589482446199,
+            "valueIncreaseRate": 0.019996658,
+            "taxIncreaseRate": 0.2491732,
+            "taxPaid": 2847.84,
+            "value": 201483
+        },
+        {
+            "time": 1557860046199,
+            "valueIncreaseRate": 0.0199937,
+            "taxIncreaseRate": 0.03210702,
+            "taxPaid": 2279.78,
+            "value": 197533
+        },
+        {
+            "time": 1526324046199,
+            "valueIncreaseRate": 0.019993152,
+            "taxIncreaseRate": 0.012096509,
+            "taxPaid": 2208.86,
+            "value": 193661
+        },
+        {
+            "time": 1494788046199,
+            "valueIncreaseRate": 0.01999538,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2182.46,
+            "value": 189865
+        },
+        {
+            "time": 1463252046199,
+            "valueIncreaseRate": 0.015238698,
+            "taxIncreaseRate": 0.010360673,
+            "taxPaid": 2182.46,
+            "value": 186143
+        },
+        {
+            "time": 1431629646199,
+            "valueIncreaseRate": 0.019971184,
+            "taxIncreaseRate": 0.04740293,
+            "taxPaid": 2160.08,
+            "value": 183349
+        },
+        {
+            "time": 1400093646199,
+            "valueIncreaseRate": 0.004532043,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2062.32,
+            "value": 179759
+        },
+        {
+            "time": 1368557646199,
+            "valueIncreaseRate": 0.04039535,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 178948
+        },
+        {
+            "time": 1337021646199,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 172000
+        },
+        {
+            "time": 1305399246199,
+            "valueIncreaseRate": -0.27755377,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 172000
+        },
+        {
+            "time": 1273863246199,
+            "valueIncreaseRate": -0.002375894,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 238080
+        },
+        {
+            "time": 1242327246199,
+            "valueIncreaseRate": 0.019998461,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 238647
+        },
+        {
+            "time": 1210791246199,
+            "valueIncreaseRate": 0.01999285,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 233968
+        },
+        {
+            "time": 1179168846199,
+            "valueIncreaseRate": 0.019992352,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 229382
+        },
+        {
+            "time": 1147632846199,
+            "valueIncreaseRate": 0.01999755,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 224886
+        },
+        {
+            "time": 1116096846199,
+            "valueIncreaseRate": 0.03903014,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 220477
+        },
+        {
+            "time": 1052938446199,
+            "valueIncreaseRate": 0.019996636,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 212195
+        },
+        {
+            "time": 1021402446199,
+            "valueIncreaseRate": 0.01999441,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 208035
+        },
+        {
+            "time": 989866446199,
+            "valueIncreaseRate": 0.019994099,
+            "taxIncreaseRate": 0.01919571,
+            "taxPaid": 2033.54,
+            "value": 203957
+        },
+        {
+            "time": 958330446199,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": 1995.24,
+            "value": 199959
+        }
+    ],
+    "brokerId": null,
+    "stateId": 9,
+    "streetAddress": "26864 Stanford St",
+    "listingSubType": {
+        "is_FSBA": false,
+        "is_comingSoon": false,
+        "is_newHome": false,
+        "is_pending": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_openHouse": false,
+        "is_FSBO": false
+    },
+    "solarPotential": null,
+    "dateSold": null,
+    "countyId": 2832,
+    "timeZone": "America/Los_Angeles",
+    "homeType": "SINGLE_FAMILY",
+    "livingAreaUnits": "sqft",
+    "comingSoonOnMarketDate": null,
+    "rentZestimate": 2999,
+    "bathrooms": 3,
+    "annualHomeownersInsurance": 2259,
+    "state": "CA",
+    "propertyTypeDimension": "Single Family",
+    "building": null,
+    "listed_by": {
+        "agent_reason": 3,
+        "zpro": false,
+        "recent_sales": 1,
+        "zuid": "X1-ZUyyfpowq45ekp_6r0de",
+        "review_count": 6,
+        "display_name": "Judi Reimer",
+        "profile_url": "https://www.zillow.com/profile/Judi-Reimer/",
+        "business_name": "First Team Real Estate",
+        "rating_average": 3,
+        "phone": {
+            "prefix": "266",
+            "areacode": "310",
+            "number": "1649"
+        },
+        "badge_type": "Listing Agent",
+        "image_url": "https://photos.zillowstatic.com/h_n/ISug4ry3mcr79b0000000000.jpg"
+    },
+    "yearBuilt": 1962,
+    "brokerageName": "First Team Real Estate",
+    "pageViewCount": 3,
+    "county": "Riverside County",
+    "mortgageRates": {
+        "thirtyYearFixedRate": 6.746
+    },
+    "attributionInfo": {
+        "buyerAgentName": "Christopher Lamoree",
+        "mlsName": "CRMLS",
+        "coAgentLicenseNumber": "DRE #01371801",
+        "listingOffices": [
+            {
+                "associatedOfficeType": "listOffice",
+                "officeName": "First Team Real Estate"
+            },
+            {
+                "associatedOfficeType": "coListOffice",
+                "officeName": "First Team Real Estate"
+            },
+            {
+                "associatedOfficeType": "buyerOffice",
+                "officeName": "Berkshire Hathaway HomeServices California Properties"
+            }
+        ],
+        "lastUpdated": "2022-09-23 02:24:40",
+        "buyerAgentMemberStateLicense": "DRE #01877567",
+        "brokerName": "First Team Real Estate",
+        "listingAgreement": null,
+        "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2024-01-24 10:53:37 PST and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information\n\nThe listing broker’s offer of compensation is made only to participants of the MLS where the listing is filed.",
+        "trueStatus": null,
+        "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_95_35.jpg",
+        "agentEmail": null,
+        "agentName": "Judi Reimer",
+        "attributionTitle": "Listing Provided by:",
+        "mlsId": "DW22122354",
+        "coAgentName": "Janette Reimer",
+        "coAgentNumber": "310-529-7725",
+        "infoString5": "310-266-1649",
+        "listingAgents": [
+            {
+                "memberStateLicense": "DRE #01218767",
+                "memberFullName": "Judi Reimer",
+                "associatedAgentType": "listAgent"
+            },
+            {
+                "memberStateLicense": "DRE #01371801",
+                "memberFullName": "Janette Reimer",
+                "associatedAgentType": "coListAgent"
+            },
+            {
+                "memberStateLicense": "DRE #01877567",
+                "memberFullName": "Christopher Lamoree",
+                "associatedAgentType": "buyerAgent"
+            }
+        ],
+        "agentPhoneNumber": "310-266-1649",
+        "agentLicenseNumber": "DRE #01218767",
+        "providerLogo": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_95_35.jpg",
+        "infoString16": null,
+        "buyerBrokerageName": "Berkshire Hathaway HomeServices California Properties",
+        "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2024-01-24 10:53:37 PST and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information\n\nThe listing broker’s offer of compensation is made only to participants of the MLS where the listing is filed.",
+        "brokerPhoneNumber": "310-266-1649",
+        "lastChecked": "2024-05-14 11:48:59"
+    },
+    "monthlyHoaFee": null,
+    "homeStatus": "SOLD",
+    "homeFacts": null,
+    "latitude": 33.731194,
+    "datePosted": "2024-02-13",
+    "bedrooms": 3,
+    "nearbyHomes": [
+        {
+            "livingArea": 2227,
+            "livingAreaValue": 2227,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 7405,
+            "lotSize": 7405,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/f46651175cb62c77bccc52ce9aee7b3e-p_c.jpg"
+                }
+            ],
+            "zpid": 17985235,
+            "longitude": -116.93135,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41819 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 469600,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.73152
+        },
+        {
+            "livingArea": 1574,
+            "livingAreaValue": 1574,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 6969,
+            "lotSize": 6969,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/97defd44c2262a9ec7e18037b913baf8-p_c.jpg"
+                }
+            ],
+            "zpid": 17985234,
+            "longitude": -116.93157,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41805 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 436000,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.73152
+        },
+        {
+            "livingArea": 1574,
+            "livingAreaValue": 1574,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 7841,
+            "lotSize": 7841,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/c8a53ebbf2a8195d261996e7a0d89b8e-p_c.jpg"
+                }
+            ],
+            "zpid": 17985236,
+            "longitude": -116.93113,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41833 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 420000,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "SOLD",
+            "currency": "USD",
+            "latitude": 33.731525
+        },
+        {
+            "livingArea": 1398,
+            "livingAreaValue": 1398,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 1,
+            "lotSize": 43560,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/streetview?location=26880+Stanford+St%2C+Hemet%2C+CA+92544&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=koU--bTM8RmXCulznuQSixndvVo="
+                }
+            ],
+            "zpid": 17984965,
+            "longitude": -116.931946,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "26880 Stanford St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 419100,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.731125
+        },
+        {
+            "livingArea": 2127,
+            "livingAreaValue": 2127,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 7405,
+            "lotSize": 7405,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/streetview?location=41791+Lomas+St%2C+Hemet%2C+CA+92544&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=PXvBWNk1ZZbMrVqIYsIft0NjtyQ="
+                }
+            ],
+            "zpid": 17985233,
+            "longitude": -116.93179,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41791 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 468200,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.731518
+        },
+        {
+            "livingArea": 2127,
+            "livingAreaValue": 2127,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 6969,
+            "lotSize": 6969,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/f6f3a31998dde7d37f03b7be4fde74fa-p_c.jpg"
+                }
+            ],
+            "zpid": 17985237,
+            "longitude": -116.930885,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41847 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 478600,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.73152
+        },
+        {
+            "livingArea": 2505,
+            "livingAreaValue": 2505,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 2,
+            "lotSize": 87120,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=33.73114776611328,-116.93074035644531&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=MYdVR2Xpv87T031on-3Q0MS4rLc="
+                }
+            ],
+            "zpid": 17984966,
+            "longitude": -116.93074,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "26884 Stanford St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 728800,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.731148
+        },
+        {
+            "livingArea": 1729,
+            "livingAreaValue": 1729,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 6969,
+            "lotSize": 6969,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/0f22e61f4c902393f88f67e18edc44cd-p_c.jpg"
+                }
+            ],
+            "zpid": 17985232,
+            "longitude": -116.93202,
+            "livingAreaUnits": "Square Feet",
+            "address": {
+                "city": "Hemet",
+                "state": "CA",
+                "streetAddress": "41777 Lomas St",
+                "zipcode": "92544"
+            },
+            "livingAreaUnitsShort": "sqft",
+            "price": 457400,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 33.731518
+        }
+    ],
+    "livingArea": 2784,
+    "priceHistory": [
+        {
+            "priceChangeRate": -0.0037043897017966,
+            "date": "2022-09-23",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1663891200000,
+            "sellerAgent": {
+                "name": "Judi Reimer",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/ISug4ry3mcr79b0000000000.jpg"
+                },
+                "profileUrl": "/profile/Judi-Reimer/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "DW22122354"
+            },
+            "pricePerSquareFoot": 193,
+            "buyerAgent": {
+                "name": "Chris Lamoree",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/ISxfuprbpifhei0000000000.jpg"
+                },
+                "profileUrl": "/profile/ChrisLamoreeRealtor/"
+            },
+            "event": "Sold",
+            "price": 537900
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-08-12",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1660262400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "DW22122354"
+            },
+            "pricePerSquareFoot": 194,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 539900
+        },
+        {
+            "priceChangeRate": -0.044424778761062,
+            "date": "2022-07-26",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1658793600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "DW22122354"
+            },
+            "pricePerSquareFoot": 194,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 539900
+        },
+        {
+            "priceChangeRate": 0.56944444444444,
+            "date": "2022-07-01",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1656633600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "DW22122354"
+            },
+            "pricePerSquareFoot": 203,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 565000
+        },
+        {
+            "priceChangeRate": 1.093023255814,
+            "date": "2022-03-16",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1647388800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 129,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 360000
+        },
+        {
+            "priceChangeRate": -0.14,
+            "date": "2010-11-16",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1289865600000,
+            "sellerAgent": {
+                "name": "Bud Feaster",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/IStg8iutxslc8d0000000000.jpg"
+                },
+                "profileUrl": "/profile/Bud-Feaster/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 62,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 172000
+        },
+        {
+            "priceChangeRate": 0.081081081081081,
+            "date": "2010-09-10",
+            "source": "Coldwell Banker Kivett-Teeters",
+            "postingIsRental": false,
+            "time": 1284076800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Coldwell Banker Kivett-Teeters",
+                "infoString3": null,
+                "infoString1": "H743391"
+            },
+            "pricePerSquareFoot": 72,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 200000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "1996-01-31",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 823046400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 66,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 185000
+        }
+    ],
+    "favoriteCount": 0,
+    "schools": [
+        {
+            "link": "https://www.greatschools.org/california/hemet/4316-Little-Lake-Elementary-School/",
+            "rating": 4,
+            "totalCount": null,
+            "distance": 0.8,
+            "assigned": null,
+            "name": "Little Lake Elementary School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-5",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/hemet/4310-Dartmouth-Middle-School/",
+            "rating": 2,
+            "totalCount": null,
+            "distance": 0.6,
+            "assigned": null,
+            "name": "Dartmouth Middle School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Middle",
+            "grades": "6-8",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/hemet/4314-Hemet-High-School/",
+            "rating": 6,
+            "totalCount": null,
+            "distance": 0.2,
+            "assigned": null,
+            "name": "Hemet High School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "High",
+            "grades": "9-12",
+            "type": "Public"
+        }
+    ],
+    "zestimateHighPercent": null,
+    "mlsid": "DW22122354",
+    "countyFIPS": "06065",
+    "city": "Hemet",
+    "providerListingID": null,
+    "country": "USA",
+    "currency": "USD",
+    "isListedByOwner": null,
+    "contingentListingType": null
+}
