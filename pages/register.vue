@@ -160,7 +160,7 @@ const accessError = ref('');
 const accessLoading = ref(false);
 
 // Set your access password here
-const CORRECT_ACCESS_PASSWORD = 'Alexandrotheking';
+const CORRECT_ACCESS_PASSWORD = 'Alexandroiskingofcomercialdeals';
 
 function checkAccessPassword() {
   accessLoading.value = true;
